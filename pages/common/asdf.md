@@ -26,3 +26,7 @@
 - Set local version for a package:
 
 `asdf local {{name}} {{version}}`
+
+- List installed packages and their versions, with current version indicator:
+
+`asdf list`
